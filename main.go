@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Jullentuss/course/course"
+import "github.com/Jullentuss/course"
 
 func main() {
 	Go := course.Course{
